@@ -1,4 +1,2 @@
 # Project-1
-Mindy is working on data clean up and Steven will help
-George will be working on the readme
-Marquetta will work on visualizations
+This will be an ongoing project where I will utilize skills throughout my bootcamp experience to analyze movie ticket sales from 1995-2021.
